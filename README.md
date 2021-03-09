@@ -9,3 +9,11 @@ As part of my formation in Ecole Centrale Casablanca, we were led to work in gro
 - Deep Learning 
 - CNN : VGG16, ResNet 50, InceptionV3, MobileNetV2 
 - Python librairies : OpenCV, Tensorflow, Keras, Scikit-learn, matplotlib, numpy, etc.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Dataset covid : https://centralecasablanca-my.sharepoint.com/:f:/g/personal/mohamed_chouhaidi_centrale-casablanca_ma/Ei6-niAQrl1HrKI59iCIYt4BSirx5_Kwl611pG8BxQXNWQ?e=IMbY8s
+test data covid : https://centralecasablanca-my.sharepoint.com/:f:/g/personal/mohamed_chouhaidi_centrale-casablanca_ma/Ei6-niAQrl1HrKI59iCIYt4BSirx5_Kwl611pG8BxQXNWQ?e=IMbY8s
+Covid19.model : https://centralecasablanca-my.sharepoint.com/:f:/g/personal/mohamed_chouhaidi_centrale-casablanca_ma/EpiI8VHVZr9FsMaujh-LU_IByFhAR8Xc41dALRHKE-3IXg?e=q38Ivq
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+brain tumor dataset : https://centralecasablanca-my.sharepoint.com/:f:/g/personal/mohamed_chouhaidi_centrale-casablanca_ma/EnPMByRQOF1Ojwd1P9ASYegB-AyncYdRFTfDSwdKCE2oPw?e=7DS5s34
+pretrained model : https://centralecasablanca-my.sharepoint.com/:f:/g/personal/mohamed_chouhaidi_centrale-casablanca_ma/EpFh_PATjqdFjNExbS-CIs4BsFF0pJQJp-_Jv9_qBnx57g?e=JhnpDo
+
